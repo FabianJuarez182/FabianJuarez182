@@ -4,7 +4,6 @@
 
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=FabianJuarez182)
-![](https://github-readme-stats.vercel.app/api?username=FabianJuarez182&theme=calm)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&layout=compact)
 
 ## Look at me! 👀

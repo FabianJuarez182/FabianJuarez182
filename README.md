@@ -9,3 +9,4 @@
 
 ## Look at me! 👀
 <img src="https://img.shields.io/badge/thestral_182_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/faju182%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/Fabian Juarez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+

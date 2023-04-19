@@ -4,9 +4,8 @@
 
 ## Statistics 🧐
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FabianJuarez182&count_private=true&theme=tokyonight&showicons=true)]()
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&layout=compact&theme=city_lights&langs_count=15)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&layout=compact&theme=city_lights&langs_count=10)
 
 ## Look at me! 👀
-<img src="https://img.shields.io/badge/thestral_182_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/faju182%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/Fabian Juarez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/https.fabes_182%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/faju182%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/Fabian Juarez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 

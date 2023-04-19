@@ -4,7 +4,7 @@
 
 ## Statistics 🧐
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FabianJuarez182&count_private=true&theme=tokyonight&showicons=true)]()
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&layout=compact&theme=city_lights&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&layout=compact&theme=city_lights&langs_count=15)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&langs_count=5&theme=tokyonight)]()
 
 ## Look at me! 👀

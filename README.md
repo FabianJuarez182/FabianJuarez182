@@ -4,6 +4,7 @@
 
 ## Statistics 🧐
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FabianJuarez182&count_private=true&theme=tokyonight&showicons=true)]()
+![](https://github-readme-stats.vercel.app/api?username=FabianJuarez182&theme=city_lights&show_icons=true&count_private=true&hide=prs,issues) 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianJuarez182&langs_count=5&theme=tokyonight)]()
 
 ## Look at me! 👀
